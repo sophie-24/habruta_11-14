@@ -13,7 +13,7 @@ dependencies:
   cupertino_icons: ^1.0.5  # iOS 아이콘
 
   # HTTP 통신을 위한 패키지 (백엔드와의 통신)
-  http: ^0.15.0
+  http: ^1.2.2
 
   # 상태 관리를 위한 패키지 (필요에 따라 provider나 Riverpod 사용 가능)
   provider: ^6.0.5
