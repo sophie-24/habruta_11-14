@@ -1,16 +1,2 @@
-# my_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+플러터 프로젝트입니다.
+2024학년도에 열린 동국대학교 해커톤에서 '하브루타'라는 질문 게시판 형태의 앱을 완성시켰습니다. 여기서 데이터 추가와 프론트엔드 파트, 백엔드 API와의 연결을 맡았습니다.
